@@ -11,5 +11,5 @@ A script that downloads the latest meetings in Microsoft teams for my specified 
  - Checking if the file already exists
  - Proper error handling
  - Folder organization (placing all the downloads from each team in their own folders)
- - Renaming the files to reflect the date of the classes
+ - Renaming the downloaded files to reflect the date and subject
  - Batch download
